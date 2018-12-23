@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Sang Test Main Page</title>
+  <title>Title Hello &middot; Sang Test Main Page</title>
 
   
   <link type="text/css" rel="stylesheet" href="http://180.71.20.68/data/public/css/print.css" media="print">
@@ -23,7 +23,7 @@
   <link rel="shortcut icon" href="http://180.71.20.68/data/public/favicon.png">
 
   
-  <link href="http://180.71.20.68/data/public/index.xml" rel="alternate" type="application/rss+xml" title="Sang Test Main Page" />
+  <link href="" rel="alternate" type="application/rss+xml" title="Sang Test Main Page" />
 
   
 </head>
@@ -50,26 +50,45 @@
 </aside>
 
     <main class="content container">
-    <div class="posts">
-<article class="post">
-  <h1 class="post-title">
-    <a href="http://180.71.20.68/data/public/post/hello/">Title Hello</a>
-  </h1>
-  <time datetime="2018-12-22T12:22:46&#43;0900" class="post-date">Sat, Dec 22, 2018</time>
-  Title Hello Content
-Title Hello Content
- Snowy day  
-  
-</article><article class="post">
-  <h1 class="post-title">
-    <a href="http://180.71.20.68/data/public/post/about/">Title About</a>
-  </h1>
-  <time datetime="2018-12-22T12:19:12&#43;0900" class="post-date">Sat, Dec 22, 2018</time>
-  Title About Content
-Title About Content
-  
-</article>
+    <div class="post">
+  <h1>Title Hello</h1>
+  <time datetime=2018-12-22T12:22:46&#43;0900 class="post-date">Sat, Dec 22, 2018</time>
+  <p>Title Hello Content<br />
+Title Hello Content</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9oDlvOV3qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<figure class='wp-caption alignnone'>
+    <img src='http://180.71.20.68/data/public/images/snow.jpg' alt='A snow day'>
+    <figcaption class='wp-caption-text'>Snowy day</figcaption>
+</figure>
+
+
+
 </div>
+
+<h2>Comments</h2>
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "foobar" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </main>
 
     
