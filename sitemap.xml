@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://180.71.20.68/data/public/post/hello/</loc>
+    <loc>https://wayles54.github.io/post/hello/</loc>
     <lastmod>2018-12-22T12:22:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://180.71.20.68/data/public/post/about/</loc>
+    <loc>https://wayles54.github.io/post/about/</loc>
     <lastmod>2018-12-22T12:19:12+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://180.71.20.68/data/public/categories/</loc>
+    <loc>https://wayles54.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://180.71.20.68/data/public/post/</loc>
-    <lastmod>2018-12-22T12:22:46+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://180.71.20.68/data/public/</loc>
+    <loc>https://wayles54.github.io/post/</loc>
     <lastmod>2018-12-22T12:22:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://180.71.20.68/data/public/tags/section/</loc>
+    <loc>https://wayles54.github.io/</loc>
+    <lastmod>2018-12-22T12:22:46+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wayles54.github.io/tags/section/</loc>
     <lastmod>2018-12-22T12:19:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://180.71.20.68/data/public/tags/</loc>
+    <loc>https://wayles54.github.io/tags/</loc>
     <lastmod>2018-12-22T12:19:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://180.71.20.68/data/public/tags/y/</loc>
+    <loc>https://wayles54.github.io/tags/y/</loc>
     <lastmod>2018-12-22T12:19:12+09:00</lastmod>
     <priority>0</priority>
   </url>
